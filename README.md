@@ -4,6 +4,8 @@
 ## 报告人
 [王洪松](https://hongsong-wang.github.io/)，2018年博士毕业于中国科学院自动化研究所，同年获中国图像图形学会优秀博士学位论文提名奖。研究人体动作智能、图像生成与取证和AI for Science等方向。以第一/通讯作者发表/录用CCF-A论文近30篇，主持国家自然科学基金面上项目、青年科学基金项目（C类），联合负责国家自然科学基金专项项目。制作并维护论文门户网站CV_Paper_Portal，该项目获得Github Star 近400个，学术报告在微信视频号获得4000多次播放。
 
+[报告PPT](https://github.com/hongsong-wang/Human_Motion_Intelligence/blob/main/%E4%BA%BA%E4%BD%93%E5%8A%A8%E4%BD%9C%E6%99%BA%E8%83%BD%EF%BC%9A%E7%90%86%E8%A7%A3%E3%80%81%E7%94%9F%E6%88%90%E4%B8%8E%E4%BA%A4%E4%BA%92.pdf)，[百度网盘](https://pan.baidu.com/s/1_TvCUnSeVXzOEvL831sgBQ?pwd=qrj8)
+
 ## 报告内容
 <p align="center">
   <img src="人体动作智能：理解、生成与交互_00.png" width="80%">
